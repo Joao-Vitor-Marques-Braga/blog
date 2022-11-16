@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@300&display=swap');
+
+.post-countainer{
+    margin-top: 20px;
+    font-family: 'Yantramanav', sans-serif;
+    border-radius: 7px;
+    justify-content: space-between;
+}
+
+.post-countainer div img{
+    width: 42vw;
+    height: 20vw;
+    object-fit: cover;
+    margin-top: 1vw;
+    margin-bottom: 0.5vw;
+    margin-left: 0.5vw;
+    margin-right: 35px;
+    border-radius: 5px;
+}
+
+.post-countainer div h2{
+    width: 35vw;
+    margin-left: 20px;
+}
+
+.post-countainer div p{
+    width: 35vw;
+    margin-left: 20px;
+}
